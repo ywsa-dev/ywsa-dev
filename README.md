@@ -27,7 +27,7 @@ Here are the things I actively work on and build:
   <img src="https://img.shields.io/badge/Entry-00C73C?style=for-the-badge&logoColor=white" alt="Entry" />
   <img src="https://img.shields.io/badge/Code%20Blocks-228B22?style=for-the-badge&logoColor=white" alt="Code Blocks" />
   <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="CMD" />
-  <img src="https://img.shields.io/badge/CMD-FFA500?style=for-the-badge&logo=windows&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Ghidra-FFA500?style=for-the-badge&logo=windows&logoColor=white" alt="Ghidra" />
 </p>
 
 ---
