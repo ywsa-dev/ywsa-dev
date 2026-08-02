@@ -18,7 +18,7 @@ Here are the things I actively work on and build:
 
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-2F2F2F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Deepseek-00D9FF?style=for-the-badge&logoColor=black" alt="Deepseek" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -26,7 +26,7 @@ Here are the things I actively work on and build:
   <br>
   <img src="https://img.shields.io/badge/Entry-00C73C?style=for-the-badge&logoColor=white" alt="Entry" />
   <img src="https://img.shields.io/badge/Code%20Blocks-228B22?style=for-the-badge&logoColor=white" alt="Code Blocks" />
-  <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="CMD" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="CMD" />
 </p>
 
 ---
@@ -44,7 +44,7 @@ Here are the things I actively work on and build:
   <br>
   <img src="https://img.shields.io/badge/Brainfuck-2F4F4F?style=for-the-badge&logoColor=white" alt="Brainfuck" />
   <img src="https://img.shields.io/badge/Entry-00C73C?style=for-the-badge&logoColor=white" alt="Entry" />
-  <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="CMD" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="CMD" />
 </p>
 
 ---
