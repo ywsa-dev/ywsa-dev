@@ -40,7 +40,7 @@ Here are the things I actively work on and build:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+[  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />](https://camo.githubusercontent.com/ec892bdf14ae59f4857ee72f722f3e9a21a82672b906fa4fa27942e29c291df5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436d642d3444344434443f7374796c653d666f722d7468652d6261646765266c6f676f3d676e7562617368266c6f676f436f6c6f723d7768697465)
   <br>
   <img src="https://img.shields.io/badge/Brainfuck-2F4F4F?style=for-the-badge&logoColor=white" alt="Brainfuck" />
   <img src="https://img.shields.io/badge/Entry-00C73C?style=for-the-badge&logoColor=white" alt="Entry" />
