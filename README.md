@@ -4,11 +4,13 @@
  
 Here are the things I actively work on and build:
 * 🛠️ Make OS script
+* 🛠️ Make ezfort
+* 🛠️ Make ydshell
+* 🛠️ Make hellsh
 * 🌌 Milon
 * Ⓨ Ygame
 * CodeCraftX
 * Runnerpython
-* 🛠️ Make ezfort
 
 ---
 <img src="https://komarev.com/ghpvc/?username=ywsa-dev&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
