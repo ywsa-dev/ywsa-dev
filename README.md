@@ -59,12 +59,12 @@ Here are the things I actively work on and build:
 </p>
 
 ——
-use ai:
-ywsa-dev repo
-ezfort repo(However, I make grammer.)
-ywsa-dev.gitnub.io repo
-codecraftX repo
-x014 repo(However, I created the sound.)
-Ygame repo
-runnerpython repo
+use ai:  
+ywsa-dev repo  
+ezfort repo(However, I make grammer.)  
+ywsa-dev.gitnub.io repo  
+codecraftX repo  
+x014 repo(However, I created the sound.)  
+Ygame repo  
+runnerpython repo  
 trfa repo
