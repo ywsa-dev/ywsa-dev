@@ -69,4 +69,5 @@ Ygame repo
 runnerpython repo  
 trfa repo  
 s repo  
-but I made remainder
+but I made remainder  
+(Even when I used AI, I made modifications or created the content myself to some extent.)
