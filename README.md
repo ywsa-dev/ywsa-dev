@@ -7,7 +7,6 @@ Here are the things I actively work on and build:
 * 🛠️ Make ezfort
 * 🛠️ Make ydshell
 * 🛠️ Make hellsh
-* 🌌 Milon
 * Ⓨ Ygame
 * CodeCraftX
 * Runnerpython
