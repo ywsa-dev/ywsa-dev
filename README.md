@@ -57,3 +57,9 @@ Here are the things I actively work on and build:
   <sub>Thank you.</sub>
 </p>
  
+—-
+# Not use ai
+hellsh<br>
+Mighty<br>
+lightnull<br>
+ydshell
