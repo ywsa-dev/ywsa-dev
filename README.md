@@ -8,7 +8,6 @@ Here are the things I actively work on and build:
 * 🛠️ Make ydshell
 * 🛠️ Make hellsh
 * Ⓨ Ygame
-* CodeCraftX
 * Runnerpython
 
 ---
