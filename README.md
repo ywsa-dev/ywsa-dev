@@ -25,7 +25,6 @@ Here are the things I actively work on and build:
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <br>
-  <img src="https://img.shields.io/badge/Entry-00C73C?style=for-the-badge&logoColor=white" alt="Entry" />
   <img src="https://img.shields.io/badge/Code%20Blocks-228B22?style=for-the-badge&logoColor=white" alt="Code Blocks" />
   <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="CMD" />
 </p>
