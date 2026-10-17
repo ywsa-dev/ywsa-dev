@@ -11,8 +11,6 @@ Here are the things I actively work on and build:
 * Runnerpython
 
 ---
-<img src="https://komarev.com/ghpvc/?username=ywsa-dev&color=00ff9d&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
----
 
 ## 🛠️ Tools & Platforms
 > Development tools and platforms I use for my projects:
