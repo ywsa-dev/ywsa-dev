@@ -37,6 +37,7 @@ Here are the things I actively work on and build:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <br>
   <img src="https://img.shields.io/badge/Brainfuck-2F4F4F?style=for-the-badge&logoColor=white" alt="Brainfuck" />
   <img src="https://img.shields.io/badge/CMD-4D4D4D?style=for-the-badge&logo=windows&logoColor=white" alt="CMD" />
