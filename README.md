@@ -3,12 +3,8 @@
 </p>
  
 Here are the things I actively work on and build:
-* 🛠️ Make OS script
-* 🛠️ Make ezfort
 * 🛠️ Make ydshell
 * 🛠️ Make hellsh
-* Ⓨ Ygame
-* Runnerpython
 
 ---
 
