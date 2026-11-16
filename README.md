@@ -5,6 +5,8 @@
 Here are the things I actively work on and build:
 * 🛠️ Make ydshell
 * 🛠️ Make hellsh
+* 🛠️ Make jt-os
+
 
 ---
 
